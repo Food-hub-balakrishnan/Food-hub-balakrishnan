@@ -4,7 +4,7 @@ Thank you for your interest in my profile
 </br>
 </br>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/balakrishnan-foodhub/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Food-hub-balakrishnan/&title=Profile%20Views)
 
 - 🔭 I’m Senior Software Engineer.
 - 🌱 I’m currently learning Docker and GraphQL
@@ -36,4 +36,4 @@ Thank you for your interest in my profile
 
 ### Stats ⚡️
 
-![Balakrishnan's github stats](https://github-stats-alpha.vercel.app/api/?username=balakrishnan-foodhub)
+![Balakrishnan's github stats](https://github-stats-alpha.vercel.app/api/?username=Food-hub-balakrishnan)
